@@ -2,7 +2,7 @@
 Welcome to my page!
 I'm Ying, and I'm a recent graduate of the University Of Manitoba with a degree in Comp Sci.
 
-🔭 I’m currently working on [Batletype](https://github.com/YingLiang2/Battletype), a simple web game where you can battle against your friends in a typing competition to determine the fastest typist! <br>
+🔭 I’m currently working on [Batletype](https://github.com/jonathanplacatka/Battletype), a simple web game where you can battle against your friends in a typing competition to determine the fastest typist! <br>
 🌱 I’m currently learning React.js, MongoDB, MySql, and Docker.
 
 
